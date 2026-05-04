@@ -214,5 +214,3 @@ def setup_osm_postgis(
 
     print("Database connection closed")
 
-    # IMPORTANT: Remove this line after correctly implementing the function.
-    raise NotImplementedError("setup_osm_postgis() is not implemented. Complete this function before running it.")
